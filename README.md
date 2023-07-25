@@ -13,3 +13,5 @@ Both the PyBank and PyPoll folders are the main folders that constitute the repo
 The Python code presented in both main.py files are adaptations of materials presented in class. I added additional lines of code within both main.py files to format the numbers (using a comma to separate thousands) in the analysis_budget_data.txt and election_analysis_data.txt files to make them more readable.
 
 Document Created By: Michael Roberts
+Columbia University Data Analytics Program
+July 24, 2023
